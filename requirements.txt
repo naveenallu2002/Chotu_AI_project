@@ -1,17 +1,19 @@
-fastapi==0.111.0
-uvicorn==0.30.1
-python-dotenv==1.0.1
-requests==2.32.3
-pymupdf==1.24.9
-python-multipart==0.0.9
-fitz==1.24.9
-streamlit==1.32.2
-requests==2.31.0
-pillow==9.5.0
-streamlit==1.32.2
-requests==2.31.0
+# fastapi==0.111.0
+# uvicorn==0.30.1
+# python-dotenv==1.0.1
+# requests==2.32.3
+# pymupdf==1.24.9
+# python-multipart==0.0.9
+# fitz==1.24.9
+# streamlit==1.32.2
+# requests==2.31.0
+# pillow==9.5.0
+# streamlit==1.32.2
+# requests==2.31.0
 
+# streamlit==1.32.2
+# requests==2.31.0
+# pandas==2.0.3
+# numpy==1.24.4
 streamlit==1.32.2
 requests==2.31.0
-pandas==2.0.3
-numpy==1.24.4
